@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/andkristine/reactRouterPortfolio/static/css/main.3edf5549.chunk.css",
+    "main.js": "/andkristine/reactRouterPortfolio/static/js/main.d737da1e.chunk.js",
+    "main.js.map": "/andkristine/reactRouterPortfolio/static/js/main.d737da1e.chunk.js.map",
+    "runtime-main.js": "/andkristine/reactRouterPortfolio/static/js/runtime-main.cda90205.js",
+    "runtime-main.js.map": "/andkristine/reactRouterPortfolio/static/js/runtime-main.cda90205.js.map",
+    "static/js/2.11bddfed.chunk.js": "/andkristine/reactRouterPortfolio/static/js/2.11bddfed.chunk.js",
+    "static/js/2.11bddfed.chunk.js.map": "/andkristine/reactRouterPortfolio/static/js/2.11bddfed.chunk.js.map",
+    "static/js/3.bff16785.chunk.js": "/andkristine/reactRouterPortfolio/static/js/3.bff16785.chunk.js",
+    "static/js/3.bff16785.chunk.js.map": "/andkristine/reactRouterPortfolio/static/js/3.bff16785.chunk.js.map",
+    "index.html": "/andkristine/reactRouterPortfolio/index.html",
+    "static/css/main.3edf5549.chunk.css.map": "/andkristine/reactRouterPortfolio/static/css/main.3edf5549.chunk.css.map",
+    "static/js/2.11bddfed.chunk.js.LICENSE.txt": "/andkristine/reactRouterPortfolio/static/js/2.11bddfed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda90205.js",
+    "static/js/2.11bddfed.chunk.js",
+    "static/css/main.3edf5549.chunk.css",
+    "static/js/main.d737da1e.chunk.js"
+  ]
+}
